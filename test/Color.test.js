@@ -69,7 +69,7 @@ contract('Color', (accounts) => {
 
 			let expected = ['#EC058E', '#5386E4', '#FFFFFF', '#000000']
 			assert.equal(result.join(','), expected.join(','))
-			// pick up at 1:05:00 of the dappuniversity tutorial
+			// pick up at 1:05:00 of the dappuniversity tutorial 
 		})
 	})
 
